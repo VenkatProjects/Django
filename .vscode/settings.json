@@ -1,0 +1,5 @@
+{
+    "git.autofetch": true,
+    "gitHistory.alwaysPromptRepositoryPicker": true,
+    "git.enableCommitSigning": true
+}
